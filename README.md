@@ -1,2 +1,3 @@
-<img width="722" height="800" alt="image" src="https://github.com/user-attachments/assets/091718fe-e430-4e4f-9ee1-45ad6ecf7504" />
 # CalculatorSwiftUI
+
+<img width="211" height="438" alt="image" src="https://github.com/user-attachments/assets/c0b977e2-41a9-4483-809a-0b084dd7614e" />
